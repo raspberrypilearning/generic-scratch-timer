@@ -1,9 +1,13 @@
-title: scratch-timer
+title: Adding a timer in Scratch
 hero_image: images/banner.png
-subtitle: scratch-timer subtitle
-description: scratch-timer description
-published: false
-
+description: Adding a timer to your Scratch project
+original_url: 
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+interests: 
+technologies: "scratch"
+>>>>>>> draft
 steps:
-  - title: Step one
-    duration: 25
+  - title: Adding a timer
