@@ -1,9 +1,13 @@
 A timer lets you record how many seconds pass between events in Scratch.
 
-- You can find the timer in the __Sensing__ menu. To use a timer in your script, the first thing you want to do is `reset` it.
++ Create a new variable called __time__.
 
-	![reset timer](images/timer1.png)
+[[[generic-scratch-add-variable]]]
 
-- Now the timer will be set to `0`. You can use the timer to find out how many seconds have passed.
++ When the green flag is clicked, start by setting the `time` to 0.
 
-	![check timer](images/timer2.png)
+![Setting time to 0](images/timer-set.png)
+
++ You can then increase your time variable, making sure to wait for the same amount of time.
+
+![Increasing the time](images/timer-change.png)
